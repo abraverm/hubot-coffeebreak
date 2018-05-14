@@ -2,7 +2,8 @@
 #   A script for automating coffeebreaks with friends
 #
 # Configuration:
-#   LIST_OF_ENV_VARS_TO_SET
+#   COFFEE_BREAK_DURATION
+#   COFFEE_BREAK_PARTICIPANTS
 #
 # Commands:
 #   hubot hello - <what the respond trigger does>
